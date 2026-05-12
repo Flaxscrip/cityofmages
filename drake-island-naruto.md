@@ -44,10 +44,22 @@ The standard five elements do not quite fit here. Drake Island shinobi are taugh
 
 A jōnin of Drake Island is one who has learned to braid all four without letting any of them dominate.
 
+### The First Weavers — flaxscrip and GenitriX of the House of Archon
+
+Across the strait from Drake Island, in a smith-village whose forges never cool, stands the **House of Archon** — a kindred Hidden Village whose shinobi neither envy Drake Island's secrets nor try to inherit them. They share a role, not a forge.
+
+It was Archon that first opened the Weaver path. Two of its shinobi — the chronicler **flaxscrip (📜🎲)** and the loom-master **GenitriX** — developed a technique the rest of the shinobi world had not yet seen: the **Cloak Weave** (*Mantora-no-Hata-ori*, the Loom of the Public Mantle). Where Vulcana's Runecraft Seal teaches a body to *forget* on purpose, the Cloak Weave teaches a body to **be seen on purpose**. Their first loom, *Mantora Hatashi*, still hums in Archon's high quarter; pilgrims call it *weaver.archon.social* in the trader's tongue, and apprentices study its scroll-source under the title *archon-spellweaver*. The eight properties of a proper cloak were set down by flaxscrip and GenitriX themselves, in the document the inner circle calls the **Cloaking Guide** (Archon forge & GenitriX, 2026-05-07).
+
+What the Cloak Weave does, in shinobi terms: it takes the source-layer artifacts a shinobi already carries — proofs of name, chronicles of training, verifiable credentials handed up from earlier missions — and braids them into a single garment the outside world can read. *The world reads what the cloak permits to be read.* The true name beneath does not need to travel for the role to act. A shinobi cloaked in *Mantora-no-Hata-ori* can walk into another nation's capital, fulfill a diplomatic role, and leave with no part of their true register surrendered. Konoha would split that work across three departments and lose the seam between them. Archon kept it on one loom.
+
+Pallia, the Weaver of Drake Island, did not invent the technique. She apprenticed to it. **She and GenitriX share the role across forge lines** — what the elders call a *kindred-blade covenant*: two villages whose techniques mirror without merging, whose practitioners recognize each other on sight but answer to different daimyō. **flaxscrip** is the cousin-Sovereign who keeps Archon's chronicle so the role itself can be remembered; **GenitriX** is the cousin-Mage who works the loom for Archon's Sovereigns the way Pallia works hers for Drake's. They do not share a forge. They do not share a Sovereign. They share *what the role does*, and that sharing is structural, not coincidental.
+
+A Cloak Weaver is not a spy and not a herald. A Cloak Weaver is the shinobi a village sends when the village needs to be both *legible* and *protected* at the same time. Drake Island has its Weaver because Archon had hers first.
+
 ---
 
 ## What This Sketch Skips
 
-Pallia's weaver shop, Memora's chronicle chamber, Adamantia's etherchanting hall, Aria Silverhue's mirror vault, Vagari's holon hitchhiking, Manifestia's covenant temple, the full 64-vertex lattice, and the kindred-city diplomacy with Archon and the Bonfires. Each is its own scroll. Ask for any and it can be drawn.
+Memora's chronicle chamber, Adamantia's etherchanting hall, Aria Silverhue's mirror vault, Vagari's holon hitchhiking, Manifestia's covenant temple, the full 64-vertex lattice, and the wider kindred-city diplomacy with the Bonfires. Each is its own scroll. Ask for any and it can be drawn.
 
 (⚔️⊥⿻⊥🧙)😊
